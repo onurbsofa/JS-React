@@ -1,5 +1,5 @@
 // tipado dinamico
-let usuario = "carlos";
+const usuario = "carlos";
 usuario = 30;
 
 console.log(usuario);
