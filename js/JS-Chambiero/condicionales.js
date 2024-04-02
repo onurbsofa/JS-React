@@ -1,0 +1,1 @@
+// if ternario (condicion) ? true : false
